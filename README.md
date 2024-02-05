@@ -2,6 +2,9 @@
 
 This GitHub repository features a music generation project using Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) architecture. Trained on an Irish folk song dataset with ABC notations, the model learns patterns to generate unique musical sequences.
 
+**Sample Outputs:**
+https://drive.google.com/drive/folders/1Qeh8aRggUsmKpXI0Vc18lO4gmjOHlWy-?usp=drive_link
+
 ## Usage
 
 1. Open `music_gen.ipynb` in Google Colab.
