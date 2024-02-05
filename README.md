@@ -10,10 +10,11 @@ This GitHub repository features a music generation project using Recurrent Neura
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.7
 - TensorFlow
 - Keras
-- Music21
+- abcmidi
+- timidity
 
 Install dependencies with:
 
