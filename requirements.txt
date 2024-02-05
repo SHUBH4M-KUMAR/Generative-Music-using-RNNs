@@ -1,0 +1,4 @@
+tenforflow
+mitdeeplearning
+opencv-python
+timidity
