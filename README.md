@@ -29,6 +29,5 @@ Feel free to experiment with the notebook for music generation and contribute to
 
 **Acknowledgments**
 
-The Irish folk song dataset used in this project is sourced from [source link].
-Inspiration and guidance from various music generation projects and research in the field.
+MIT IntrotoDeeplearning for Datsset and Guidence.
 Feel free to contribute, report issues, or reach out with any suggestions or improvements. Happy music generation! 
